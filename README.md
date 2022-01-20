@@ -1,14 +1,12 @@
-### Hi there 👋
 
-<!--
-**luizcarlosvl/luizcarlosvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h3> 👨‍💻 &nbsp;Sobre mim </h3>
 
 - 🔭 I’m currently studying Web Development at Trybe
 - 🌱 I’m currently learning Node.js
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -41,14 +39,13 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+<a href="https://github.com/luizcarlosvl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcarlosvl&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-luizcarlosvl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizcarlosvl/)](https://www.linkedin.com/in/luizcarlosvl/)
+[![Gmail Badge](https://img.shields.io/badge/-luizcarlosvl@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizcarlosvl@gmail.com)](mailto:luizcarlosvl@gmail.com)
