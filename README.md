@@ -4,7 +4,7 @@
 <h3> 👨‍💻 &nbsp;About me </h3>
 
 - 🔭 I’m currently studying Web Development at Trybe
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Python
 
 
 
